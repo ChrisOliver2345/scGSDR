@@ -1,0 +1,1 @@
+This folder is used to store the sample data required by the model. For the method of obtaining the sample data, please refer to the README.md file.
